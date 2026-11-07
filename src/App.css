@@ -344,3 +344,20 @@ button:disabled { opacity: .35; cursor: not-allowed; }
 .brand-copy small { letter-spacing: .14em; }
 .hero { grid-template-columns: 1fr; min-height: 0; padding-bottom: 0; }
 .hero-copy { max-width: 860px; }
+
+/* hero open-source link */
+.hero-oss {
+  display: inline-block;
+  margin-top: 1.25rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+}
+.hero-oss:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}

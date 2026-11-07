@@ -41,6 +41,7 @@ export const UI: Record<Lang, Record<string, string | string[]>> = {
     "stat_views": "独立视角",
     "stat_archived": "历史收录",
     "hero_eyebrow": "GARMENT STUDY · 2026.11",
+    "hero_oss": "开源 · GitHub ↗",
     "view_labels": [
       "四视图",
       "前",
@@ -98,6 +99,7 @@ export const UI: Record<Lang, Record<string, string | string[]>> = {
     "stat_views": "Unique views",
     "stat_archived": "Archived",
     "hero_eyebrow": "GARMENT STUDY · 2026.11",
+    "hero_oss": "open source · github ↗",
     "view_labels": [
       "All views",
       "Front",
@@ -155,6 +157,7 @@ export const UI: Record<Lang, Record<string, string | string[]>> = {
     "stat_views": "4方向ビュー",
     "stat_archived": "過去収録",
     "hero_eyebrow": "GARMENT STUDY · 2026.11",
+    "hero_oss": "オープンソース · GitHub ↗",
     "view_labels": [
       "全方向",
       "前",

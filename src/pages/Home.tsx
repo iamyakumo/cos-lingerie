@@ -323,6 +323,7 @@ function App() {
             <div><strong>{scopeProducts.length * 4}</strong><span>{ts('stat_views')}</span></div>
             <div><strong>{String(scopeProducts.filter(product => product.status === 'history').length).padStart(2, '0')}</strong><span>{ts('stat_archived')}</span></div>
           </div>
+          <a className="hero-oss" href="https://github.com/iamyakumo/cos-lingerie" target="_blank" rel="noreferrer">{ts('hero_oss')}</a>
         </section>
 
         <section className="archive" id="archive" ref={archiveRef} aria-labelledby="archive-title">
