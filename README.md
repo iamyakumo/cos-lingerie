@@ -10,6 +10,8 @@
 
 **线上地址：<https://cos-lingerie.pages.dev>**
 
+![擦边衣橱 中文界面](docs/screenshots/screenshot-cn.png)
+
 ### 特性
 
 - 298 款商品 · 7 店归档（七了个三 / 污污污山 / 霏慕旗舰店 / Malymoon / KIYOVI / 歪萌舍 / 得体社）
@@ -67,6 +69,8 @@ A purely static **garment four-view archive**: 298 pieces from 7 Taobao costume 
 
 **Live: <https://cos-lingerie.pages.dev>**
 
+![Cosplay Lingerie UI in English](docs/screenshots/screenshot-en.png)
+
 ### Features
 
 - 298 pieces across 7 shops (Qilesan / Wuwuwushan / Feimu / Malymoon / KIYOVI / Waimengshe / Detishe)
@@ -104,6 +108,8 @@ MIT (see [LICENSE](LICENSE)).
 淘宝のコスプレ衣装店 7 店舗・全 298 点を、**前 / 後 / 左 / 右**の 4 等分パネルで記録した純粋な静的アーカイブサイトです。白背景・人物なし・注釈なし。各衣装の閲覧・検索・ダウンロードに対応。
 
 **公開サイト：<https://cos-lingerie.pages.dev>**
+
+![ギリギリ衣装棚 日本語UI](docs/screenshots/screenshot-jp.png)
 
 ### 特徴
 
