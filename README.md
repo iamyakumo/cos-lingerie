@@ -21,6 +21,15 @@
 - 详情弹窗：整图 / 单视角裁剪 / 翻页 / 下载 / 复制深链
 - 静态部署友好：构建产物为纯 HTML/JS/CSS + WebP，无后端
 
+### 使用示例
+
+把四视图图板作为换装参考丢给任意图像 AI，一句话即可还原上身效果：
+
+![使用示例：一句话换装](docs/screenshots/usage-example.png)
+
+> 对 AI 说：**「图1人物穿上图2衣服」**
+> AI 回复：「已换上图2的粉色套装，保留了原图的发型、坐姿、黑色丝袜和餐厅背景。」
+
 ### 技术栈
 
 React 19 · TypeScript · Vite 7 · Tailwind CSS · shadcn/ui 组件 · Cloudflare Pages
@@ -80,6 +89,15 @@ A purely static **garment four-view archive**: 298 pieces from 7 Taobao costume 
 - Detail modal: full panel, single-view crops, prev/next, download, copy deep link
 - Backend-free static output: plain HTML/JS/CSS + WebP, deployable anywhere
 
+### Usage example
+
+Hand the four-view plate to any image AI as a dressing reference — one sentence reproduces the wearing effect:
+
+![Usage example: one-sentence outfit swap](docs/screenshots/usage-example.png)
+
+> Prompt the AI: **"Put the person in image 1 into the outfit from image 2"**
+> AI reply: "Swapped in the pink set from image 2 — keeping the original hairstyle, seated pose, black tights and restaurant background."
+
 ### Stack
 
 React 19 · TypeScript · Vite 7 · Tailwind CSS · shadcn/ui · Cloudflare Pages
@@ -119,6 +137,15 @@ MIT (see [LICENSE](LICENSE)).
 - 店舗別アーカイブ、販売状態フィルタ、カテゴリフィルタ、3 言語対応キーワード検索
 - 詳細モーダル：全体図 / 単一方向クロップ / 前後移動 / ダウンロード / 深いリンクのコピー
 - バックエンド不要の静的出力：HTML/JS/CSS + WebP のみ
+
+### 使用例
+
+四方向図を衣装参照として画像AIに渡せば、一言で着用イメージを再現できます：
+
+![使用例：一言で着替え](docs/screenshots/usage-example.png)
+
+> AI への指示：**「画像1の人物に画像2の衣装を着せて」**
+> AI の返答：「画像2のピンクセットに着替え、元の髪型・座り姿・黒タイツ・レストラン背景をそのまま維持しました。」
 
 ### 技術構成
 
